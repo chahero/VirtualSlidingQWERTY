@@ -1,0 +1,134 @@
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\bin\Release\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\bin\Release\Prototype.pdb
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.Properties.Resources.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.pdb
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.ControlForm.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype 수정\obj\x86\Release\Prototype.exe
+E:\Prototype 수정\obj\x86\Release\Prototype.pdb
+E:\Prototype 수정\bin\Release\Prototype.exe
+E:\Prototype 수정\bin\Release\Prototype.pdb
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.dll
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.WinForms.dll
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.WinForms.pdb
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.WinForms.xml
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.pdb
+E:\Prototype 수정\bin\Release\Windows7.Multitouch.xml
+E:\Prototype 수정\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+E:\Prototype 수정\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype 수정\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype 수정\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype 수정\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype 작업중\bin\Release\Prototype.exe
+E:\Prototype 작업중\bin\Release\Prototype.pdb
+E:\Prototype 작업중\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141018) 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141018) 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141018) 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.pdb
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\bin\Release\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\bin\Release\Prototype.pdb
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.ControlForm.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype (20141018) 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141020) 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141020) 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141020) 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141022) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141022) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141022) - 작업중\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141023) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141023) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141023) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141025) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141025) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141025) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.exe
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141026) - 복사본\bin\Release\Prototype.exe
+E:\Prototype (20141026) - 복사본\bin\Release\Prototype.pdb
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141026) - 복사본\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141026) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141026) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141026) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141027) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141027) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141027) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.exe
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.pdb
+E:\Prototype (20141028) - 작업중\bin\Release\Prototype.exe
+E:\Prototype (20141028) - 작업중\bin\Release\Prototype.pdb
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+E:\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.exe
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.pdb
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\bin\Release\Prototype.exe
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\bin\Release\Prototype.pdb
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+D:\SmartWatch Prototype\Prototype (20141028) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.exe
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.pdb
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\bin\Release\Prototype.exe
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\bin\Release\Prototype.pdb
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.csprojResolveAssemblyReference.cache
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.ControlForm.resources
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.ExperimentForm.resources
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.Properties.Resources.resources
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중\obj\x86\Release\Prototype.csproj.GenerateResource.Cache
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중 - 복사본\obj\x86\Release\Prototype.exe
+D:\Research\2014, Virtual Sliding QWERTY Keyboard= 작은 화면에서의 새로운 영문 입력 방식\Prototype\Prototype (20141029) - 작업중 - 복사본\obj\x86\Release\Prototype.pdb

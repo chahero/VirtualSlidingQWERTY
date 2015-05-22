@@ -1,0 +1,7 @@
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\bin\Debug\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\bin\Debug\Prototype.pdb
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Debug\Prototype.Form1.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Debug\Prototype.Properties.Resources.resources
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Debug\Prototype.csproj.GenerateResource.Cache
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Debug\Prototype.exe
+D:\Research\2015, 작은 화면에서의 새로운 문자 입력 방식\Prototype\obj\x86\Debug\Prototype.pdb
