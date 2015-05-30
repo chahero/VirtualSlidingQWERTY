@@ -3,7 +3,7 @@ Hi!
 
 This repository is to share our source code for a research called as "Virtual Sliding QWERTY" published in Applied Ergonomics journal.
 
-Almost researches published in Ergonomics/Human factors research areas have not share their source codes of their prototype.
+Almost researches published in Ergonomics/Human factors research areas does not share their source codes of their prototype.
 It makes difficult for researchers to compare performances like usability between the researches.
 Thus, we open and share our source code used in our research.
 
