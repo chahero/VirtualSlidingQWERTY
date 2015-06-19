@@ -20,7 +20,8 @@ Etc.
 
 Referenced journal
 - J. Cha, E. Choi, and J. Lim. (2015). Virtual Sliding QWERTY: A new text entry method for smartwatches using Tap-N-Drag, Applied Ergonomics, Vol. 51.
-- http://www.sciencedirect.com/science/journal/00036870 
+- http://www.sciencedirect.com/science/journal/00036870
+- https://www.researchgate.net/publication/278028984_Virtual_Sliding_QWERTY_A_new_text_entry_method_for_smartwatches_using_Tap-N-Drag
 
 Any questions and comments
 - dr.jaemin.cha at gmail.com
